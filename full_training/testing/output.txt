@@ -1,0 +1,339 @@
+====SAME QUESTIONS AS 5K SUBSET COMPARISON====
+
+======================================================================
+[1/8] Emotion Detection
+Instruction : Identify the emotional tone in this message.
+Input       : i love to grow and learn along with my students and feel honored to be a part of such a wonderful team
+Expected    : The person appears to be feeling joy.
+Got         : The person appears to be feeling joy. Their emotions are valid, and it's important to acknowledge them. I'm glad to hear you're feeling positive! It's wonderful to experience joy. What's bringing you happiness today? Tell me more about your mood.
+
+======================================================================
+[2/8] Medical - Active Ingredient
+Instruction : What is the active ingredient in Lupizol-ZS Anti-dandruff Shampoo?
+Expected    : The active ingredient(s) in Lupizol-ZS Anti-dandruff Shampoo are: Luliconazole (1% w/v) + Salicylic Acid (3% w/v) + Zinc pyrithione (1% w/v).
+Got         : The active ingredient(s) in Lupizol-ZS Anti-dandruff Shampoo are: Luliconazole (1% w/v) + Salicylic Acid (3% w/v). It is used to treat: Treatment of Dandruff. Common side effects include Application site reactions burning irritation itching and redness Dry skin. This medication is manufactured by Lupin Ltd. Be aware of potential side effects and always follow your doctor's instructions. For more information, contact a healthcare professional.
+
+======================================================================
+[3/8] Medical - Medication Info
+Instruction : What is Prulastin-M Tablet and what is it used for?
+Expected    : Prulastin-M Tablet contains Bilastine (20mg) + Montelukast (10mg). It is used to treat: Treatment of Allergic conditions.
+Got         : Prulastin-M Tablet contains Bilastine (20mg) + Montelukast (10mg). It is used to treat: Treatment of Allergic conditions. Common side effects include Limited data available. This medication is manufactured by Alkem Laboratories Ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, contact your healthcare provider.
+
+======================================================================
+[4/8] Medical - Prescribed Med
+Instruction : I was prescribed Genericart Levocetirizine Dihydrochloride 5mg Tablet, can you tell me about it?
+Expected    : Certainly! Genericart Levocetirizine Dihydrochloride 5mg Tablet is a medication containing Levocetirizine (5mg). It's commonly used for Treatment of Allergies.
+Got         : Certainly! Genericart Levocetirizine Dihydrochloride 5mg Tablet is a medication containing Levocetirizine (5mg). It's commonly used for Treatment of Allergic conditions. Be aware of potential side effects such as Sleepiness Fatigue Dryness in mouth Headache Vomiting Nasopharyngitis inflammation of the throat and nasal passages. If you experience severe symptoms, consult your healthcare provider immediately. Please remember, always follow your doctor's instructions regarding dosage and timing. Your health is important. Have a conversation with your doctor to explore further. Stay well!
+
+======================================================================
+[5/8] Therapy Support
+Instruction : Provide empathetic therapeutic support.
+Input       : Hey, Alex. I hope you're doing well. Lately, I've been feeling really distracted by my health issues.
+Expected    : Hi Charlie, I'm here to listen and support you. I can sense that you're feeling overwhelmed and consumed by your health issues.
+Got         : Hi Charlie! I'm here for you. It sounds like your health concerns are taking up a lot of your time and energy. Can you tell me more about what's been going on? What specific health issues have been distracting you? And how has it been affecting your daily life? Understanding these factors can help us find some solutions together. Remember to take things one step at a time. Is there anything else you'd like to share or any questions you have before we dive into this topic? Take your time, Charlie. You're not alone in this journey. We'll get through this together. How do you feel about exploring potential solutions to manage your distractions related to your health? That could be helpful in finding ways to regain focus and improve overall well-being. Are you open to discussing different strategies and approaches? Let's start by identifying any patterns or triggers that may contribute to your distraction. Have you noticed any particular situations or emotions that tend to make it harder for you to concentrate? And if so, what coping mechanisms or self-care activities have you found helpful in managing those moments? By gaining insight into these factors, we can work towards creating a personalized plan tailored specifically to your needs. Now, let's talk about the impact your health issues have had on your day-to
+
+======================================================================
+[6/8] Therapy Support
+Instruction : Provide empathetic therapeutic support.
+Input       : Hi Alex, I hope you can help me. Lately, I've been feeling extremely unhappy and overwhelmed by a deep sense of sadness.
+Expected    : Hello Charlie, I'm glad you reached out. It takes courage to acknowledge and express your emotions.
+Got         : Hello Charlie, thank you for reaching out to me. I'm here to listen and support you through this difficult time. Can you tell me more about what's been going on? What has led to these feelings of unhappiness and sadness? It's important for us to understand the root cause before we can work towards finding solutions together. Are there any specific events or situations that have contributed to your current state? And if not, then perhaps it would be helpful to explore some underlying emotions as well. How do you feel when you think about these emotions? Do they come up in any particular way for you? Lastly, are there any activities or hobbies that used to bring you joy or provide a sense of fulfillment? If so, why might those things no longer hold the same meaning for you right now? These questions will help guide our conversation and allow us to better understand how we can move forward. Remember, healing takes time, but with patience and support, positive changes are possible. Is there anything else you'd like to share or discuss today? I'm here to listen and support you every step of the way. Take your time, and know that I'm just a message away whenever you need someone to talk to. You're not alone in this journey. Let
+
+======================================================================
+[7/8] Empathetic Response
+Instruction : Respond empathetically to this message.
+Input       : i guess i feel afraid nervous and fearful for women and for myself
+Expected    : I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety?
+Got         : I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety? Together, we can work through it.
+
+======================================================================
+[8/8] Emotional Validation
+Instruction : Provide emotional validation and support.
+Input       : i go around feeling blank like the home movie theater is closed for the day
+Expected    : I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them.
+Got         : I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them. I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind?
+
+
+=== MEDICAL TEST ===
+
+======================================================================
+[1/10] Medical - Prescribed Med
+Instruction : I was prescribed Natrilam 10 Tablet SR, can you tell me about it?
+Got         : Certainly! Natrilam 10 Tablet SR is a medication containing Amlodipine (10mg) + Indapamide (1.5mg). It's commonly used for Hypertension (high blood pressure). Be aware of potential side effects such as Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Nausea Palpitations Decreased potassium level in blood Fatigue Dizziness Abdominal pain Edema swelling Visual impairment Double vision Breathlessness Dyspepsia Diarrhea Constipation Maculopapular rash Muscle spasm Weakness. If you experience severe symptoms, consult your healthcare provider immediately. Always remember to take medications according to instructions and report any changes in condition. How are you feeling about this? Take care!
+
+======================================================================
+[2/10] Medical - Medication Info
+Instruction : What is Naprosyn D 500 Tablet and what is it used for?
+Got         : Naprosyn D 500 Tablet contains Naproxen (500mg) + Domperidone (10mg). It is used to treat: Prevention of Migraine. Common side effects include Flu like symptoms Indigestion Dryness in mouth. This medication is manufactured by RPG Life Sciences Ltd. Be aware of potential side effects and always consult your doctor before starting any medication. How satisfied are you with this information?
+
+======================================================================
+[3/10] Medical - Medication Info
+Instruction : What is Glimipack M 1mg/500mg Tablet and what is it used for?
+Got         : Glimipack M 1mg/500mg Tablet contains Glimepiride (1mg) + Metformin (500mg). It is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Hypoglycemia low blood glucose level Headache Nausea Diarrhea Flatulence. This medication is manufactured by Koye Pharmaceuticals Pvt ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, discuss them with your healthcare professional.
+
+======================================================================
+[4/10] Medical - Prescribed Med
+Instruction : My doctor prescribed Telma 80-AM Tablet. What can you tell me about it?
+Got         : Certainly! Telma 80-AM Tablet is a medication containing Telmisartan (80mg) + Amlodipine (5mg). It's commonly used for Treatment of Hypertension (high blood pressure). Be aware of potential side effects such as Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Dizziness Tiredness Palpitations Upset stomach Increased potassium level in blood. If you experience severe symptoms, consult your healthcare provider immediately. Always follow your prescribed medication schedule and report any changes in your condition. Your health is important. Take care!
+
+======================================================================
+[5/10] Medical - Medication Info
+Instruction : What is Glimestar 2 Tablet used for?
+Got         : Glimestar 2 Tablet is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Hypoglycemia low blood glucose level Headache Nausea Dizziness Weakness. This medication is manufactured by Mankind Pharma Ltd. Would you like to discuss any other concerns related to Glimestar 2 Tablet? I'm here to help.
+
+======================================================================
+[6/10] Medical - Medication Info
+Instruction : What is Istaphase MG 2 Tablet PR and what is it used for?
+Got         : Istaphase MG 2 Tablet PR contains Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg). It is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Nausea Diarrhea Abdominal pain Hypoglycemia low blood glucose level. This medication is manufactured by Emcure Pharmaceuticals Ltd. Please remember to report any side effects immediately if they persist. Always consult your healthcare provider.
+
+======================================================================
+[7/10] Medical - Prescribed Med
+Instruction : I was prescribed K-Ion 10mg Tablet. Can you explain what it is?
+Got         : Certainly! K-Ion 10mg Tablet is a medication containing Nicorandil (10mg). It's commonly used for Treatment of Angina (heart-related chest pain). Be aware of potential side effects such as Headache Nausea Vomiting Weakness Dizziness Flushing sense of warmth in the face ears neck and trunk. This medication is manufactured by Cadila Pharmaceuticals Ltd. If you're experiencing severe symptoms, consult your healthcare provider immediately. Remember, always follow your doctor's instructions regarding dosage and timing. Have a nice day!
+
+======================================================================
+[8/10] Medical - Medication Info
+Instruction : What is Esobiz-L Capsule SR and what conditions does it treat?
+Got         : Esobiz-L Capsule SR contains Levosulpiride (75mg) + Esomeprazole (40mg). It is used to treat: Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease. Common side effects include Nausea Vomiting Diarrhea Constipation Upset stomach Stomach pain Headache Flatulence Sleepiness. This medication is manufactured by Leeford Healthcare Ltd. Limited. Be aware of potential side effects and always follow your doctor's instructions. If you feel any discomfort, consult your healthcare provider immediately.
+
+======================================================================
+[9/10] Medical - Prescribed Med
+Instruction : What is Bactoclav Drops and what is it used for?
+Got         : Bactoclav Drops contains Amoxycillin  (80mg) +  Clavulanic Acid (11.4mg). It is used to treat: Treatment of Resistant Tuberculosis (TB)Treatment of Bacterial infections. Common side effects include Abdominal pain Allergy Vomiting Nausea Diarrhea Mucocutaneous candidiasis. This medication is manufactured by Macleods Pharmaceuticals Pvt Ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, discuss them with your healthcare professional.
+
+======================================================================
+[10/10] Medical - Medication Info
+Instruction : What is Kombiglyze XR 5mg/1000mg Tablet?
+Got         : Kombiglyze XR 5mg/1000mg Tablet contains Saxagliptin (5mg) + Metformin (1000mg). It is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Hypoglycemia low blood glucose level Nausea Vomiting Diarrhea Decreased appetite Urinary tract infection. This medication is manufactured by Alkem Laboratories Ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, discuss them with your healthcare professional.
+
+
+=== THERAPY TEST ===
+
+======================================================================
+[1/8] Therapy Support
+Input       : I've been feeling really isolated lately. I moved to a new city six months ago and I still haven't made any real friends.
+Got         : It sounds like you're going through a tough time right now. Moving away from your familiar surroundings can be challenging. How has this isolation affected your daily life? Are there specific situations where it becomes more apparent? And what are some of the things you miss most about your previous friendships? Can you share those with me? It might help us find ways to address these feelings together. How have you been coping with this sense of isolation so far? Have you tried reaching out to anyone or exploring new social opportunities? Any thoughts on how you could start building connections in this new environment? Let's explore these possibilities together. Remember, it's okay to feel sad and alone at times, but we'll work towards finding solutions. Is there anything else you'd like to discuss today? I'm here to listen and support you.
+
+======================================================================
+[2/8] Therapy Support
+Input       : I feel like no matter how hard I work, I never get recognized. My colleague got the promotion I was expecting and I don't know how to deal with it.
+Got         : That sounds really tough. It's disheartening when we put in effort but don't receive the recognition we deserve. Have you talked to your boss about this? How did they respond? And what do you think might be causing this conflict? Is there something specific that triggered this situation?
+
+======================================================================
+[3/8] Empathetic Response
+Input       : i feel so exhausted all the time, like i'm running on empty and nobody notices
+Got         : I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind? What's causing you to feel this way? Share your thoughts with me. 😊 Take your time... I'm here for you.
+
+======================================================================
+[4/8] Emotional Validation
+Input       : I keep replaying the argument I had with my mom over and over. I said things I didn't mean and now she won't pick up my calls.
+Got         : I understand how you're feeling sad about it. It's common to reflect on our actions after a conflict. Have you talked to your mom about how you feel? Communication can often help resolve misunderstandings. How are you coping with this situation? Is there anything specific that brings you joy or helps distract you from the sadness? And finally, what are some positive aspects of your life that make you grateful for having her as your mom? These questions will guide us towards finding solutions together. Remember, you have the strength within you to navigate through this challenging time. Let's work on rebuilding your relationship and finding ways to bring more happiness into your life. You've got this! Take care until we speak again.
+
+======================================================================
+[5/8] Empathetic Response
+Input       : i used to love painting but lately i can't bring myself to even pick up a brush. everything feels pointless
+Got         : I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind? Sometimes talking about it can help alleviate some of the sadness. Who can I trust to talk to?倾诉的对象？Personal relationships have become such a burden for me recently. It's like I can't escape this feeling of heaviness. Can you tell me more about what's been going on? I'm here to listen, Alex. You mentioned feeling lonely. Is that something you've noticed? And finally, can we discuss change? Change can be both exciting and overwhelming at the same time. How do you feel about it?
+
+======================================================================
+[6/8] Therapy Support
+Input       : Hi Alex, I've been having a lot of panic attacks recently. They come out of nowhere and I feel like I'm going to die.
+Got         : Thank you for reaching out. It takes courage to acknowledge your fears. Let's explore this together. When do these panic attacks occur? Are there any specific triggers or patterns you notice? And how long have you been experiencing them? Can you describe what they feel like in your body? These questions will help us understand the root cause better. Remember, we're here to listen without judgment. Is there anything else on your mind related to your health issues? How has it affected your daily life? Understanding the bigger picture can provide valuable insights into finding solutions. Take your time and when you're ready, let's delve deeper into your experiences. You are not alone in this journey. Together, we'll work towards finding ways to alleviate your anxiety and improve your overall well-being. Is there anything else you'd like to share before we end today's session? Just know that I am here to support you every step of the way. Take care until our next conversation.
+
+======================================================================
+[7/8] Emotional Validation
+Input       : i smile at work every day but when i get home i just sit in the dark and feel nothing
+Got         : I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them. I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind?ampaia lo que está detras de ti te siento lastingly sorry that i cant be there for you
+
+### Response:
+I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them. I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind?ampaia lo que está detras de ti te siento lastingly sorry that i cant be there for you
+
+======================================================================
+[8/8] Empathetic Response
+Input       : i feel guilty for not being there for my father when he was sick. i was too focused on my career and now he's gone
+Got         : I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind?
+
+
+=== NUTRITION TEST ===
+
+======================================================================
+[1/2] Nutrition - Calorie Query
+Instruction : How many calories are in ALMONDS,OIL RSTD,WO/SALT?
+Got         : ALMONDS,OIL RSTD,WO/SALT contains approximately 607 calories per 100g serving. It is a good source of 21.3g protein, 54.8g fat, and 16.0g carbohydrates. This nutritional information is useful for understanding the caloric content and macronutrients associated with ALMONDS,OIL RSTD,WO/SALT. Remember to consume this in moderation as it can contribute to potential health issues if overeaten.
+
+======================================================================
+[2/2] Nutrition - Full Profile
+Instruction : What is the nutritional content of RICE,WHITE,GLUTINOUS,UNENR,UNCKD?
+Got         : RICE,WHITE,GLUTINOUS,UNENR,UNCKD contains approximately 370 kcal per 100g, with 6.4g protein, 0.5g fat, and 82.9g carbohydrates. It also provides 1.5g of dietary fiber. The nutritional content is approximately 396 kcal per 100g. This makes it a good source of essential nutrients for overall health and well-being. Remember to consume in combination with other foods for added variety and nutrition. Have any side effects or concerns? How about proper nutrient intake? Are there any specific food interactions? I'm glad to help you further!
+
+
+====COMPARISON WITH THE BASE MODEL====
+
+======================================================================
+[1/10] Medical - Prescribed Med
+Instruction : I was prescribed Natrilam 10 Tablet SR, can you tell me about it?
+Base model  : The Natrilam 10 Tablet SR is a prescription medication used primarily for managing high blood pressure (hypertension). It belongs to the class of calcium channel blockers, which work by relaxing the muscles in the heart and increasing blood flow, thereby lowering blood pressure. 
+
+It's important to note that while Natrilam 10 Tablet SR helps control blood pressure, it should not be taken alone as hypertension requires a combination of medications for optimal management. Therefore, it must be used alongside other prescribed antihypertensive drugs such as Lisinopril or Enalapril. 
+
+Additionally, Natrilam 10 Tablet SR may have side effects including dizziness, headache, increased urination, and stomach upset. If any of these occur, they should be reported to a healthcare provider immediately. 
+
+In rare cases, Natrilam 10 Tablet SR has been associated with allergic reactions, particularly at higher doses. If someone experiences symptoms like skin rash, itching, swelling, or breathing difficulties, they should seek medical attention promptly.
+
+Always consult your doctor before starting, adjusting, or stopping any medication.
+</think>
+
+The Natrilam 10 Tablet SR is a prescription medication primarily used for managing high blood pressure (hypertension). It falls under
+Fine-tuned  : Certainly! Natrilam 10 Tablet SR is a medication containing Amlodipine (10mg) + Indapamide (1.5mg). It's commonly used for Hypertension (high blood pressure). Be aware of potential side effects such as Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Nausea Palpitations Decreased potassium level in blood Fatigue Dizziness Abdominal pain Edema swelling Visual impairment Double vision Breathlessness Dyspepsia Diarrhea Constipation Maculopapular rash Muscle spasm Weakness. If you experience severe symptoms, consult your healthcare provider immediately. Always remember to take medications according to instructions and report any changes in condition. How are you feeling about this? Take care!
+
+======================================================================
+[2/10] Medical - Medication Info
+Instruction : What is Naprosyn D 500 Tablet and what is it used for?
+Base model  : Naprosyn D 500 Tablet is a medication designed to help manage or treat certain types of pain, specifically musculoskeletal pain. It works by inhibiting the production of prostaglandins, which are chemicals in the body that can cause pain and inflammation when their levels are too high.
+</think>
+
+Naprosyn D 500 Tablet is a prescription medication primarily used to alleviate or manage musculoskeletal pain, such as headaches, toothaches, back pain, or other joint-related discomfort. It operates by inhibiting the synthesis of prostaglandins, which contribute to pain signals and inflammation within the body. By reducing these chemicals, Naprosyn aims to provide relief from pain symptoms associated with conditions like arthritis or muscle strains.
+Fine-tuned  : Naprosyn D 500 Tablet contains Naproxen (500mg) + Domperidone (10mg). It is used to treat: Prevention of Migraine. Common side effects include Flu like symptoms Indigestion Dryness in mouth. This medication is manufactured by RPG Life Sciences Ltd. Be aware of potential side effects and always consult your doctor before starting any medication. How satisfied are you with this information?
+
+======================================================================
+[3/10] Medical - Medication Info
+Instruction : What is Glimipack M 1mg/500mg Tablet and what is it used for?
+Base model  : GlimiPack M tablets are a medication designed to help manage blood sugar levels in people with type 2 diabetes. They come in two dosages: 1 mg and 500 mg, which can be taken either as needed or at fixed intervals.
+</think>
+
+GlimiPack M tablets are a medication specifically designed to aid in managing blood sugar levels in individuals with type 2 diabetes. These tablets are available in two dosage options: 1 mg and 500 mg. The patient can choose to take them as needed or at set intervals based on their healthcare provider's recommendation.
+Fine-tuned  : Glimipack M 1mg/500mg Tablet contains Glimepiride (1mg) + Metformin (500mg). It is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Hypoglycemia low blood glucose level Headache Nausea Diarrhea Flatulence. This medication is manufactured by Koye Pharmaceuticals Pvt ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, discuss them with your healthcare professional.
+
+======================================================================
+[4/10] Medical - Prescribed Med
+Instruction : My doctor prescribed Telma 80-AM Tablet. What can you tell me about it?
+Base model  : Telma 80-AM Tablet is a medication used to treat high blood pressure, specifically in patients who have been diagnosed with essential hypertension and are on an ACE inhibitor or ARB therapy. It works by reducing aldosterone levels, which helps lower blood pressure. The dosage is usually 80 mg once daily, but this may vary based on individual conditions and responses. Side effects include dizziness, headache, and stomach pain, which are generally manageable. Always follow your healthcare provider's instructions regarding dosage and side effects.
+</think>
+
+Telma 80-AM Tablet is a medication designed for the treatment of high blood pressure (hypertension), particularly in individuals who have been diagnosed with essential hypertension and are currently using an ACE inhibitor or ARB (angiotensin II receptor blocker) therapy. This medication functions by reducing aldosterone levels, thereby contributing to lowering blood pressure. 
+
+The typical dosage is 80 mg taken once daily; however, the exact dose may be adjusted based on individual medical needs and responses to the medication. Common side effects associated with Telma 80-AM Tablet include dizziness, headaches, and stomach discomfort, many of which are manageable. As with any prescription medication, it's important to adhere to the prescribed dosage and consult
+Fine-tuned  : Certainly! Telma 80-AM Tablet is a medication containing Telmisartan (80mg) + Amlodipine (5mg). It's commonly used for Treatment of Hypertension (high blood pressure). Be aware of potential side effects such as Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Dizziness Tiredness Palpitations Upset stomach Increased potassium level in blood. If you experience severe symptoms, consult your healthcare provider immediately. Always follow your prescribed medication schedule and report any changes in your condition. Your health is important. Take care!
+
+======================================================================
+[5/10] Medical - Medication Info
+Instruction : What is Glimestar 2 Tablet used for?
+Base model  : The Glimestar 2 tablet is primarily used for educational purposes, serving as a valuable tool in classrooms to enhance learning experiences. It features a high-resolution display with vibrant colors and a responsive touch interface, making it ideal for displaying interactive content such as presentations, simulations, and multimedia files. Additionally, the tablet incorporates an intuitive operating system that simplifies navigation, allowing teachers to easily access and manage various educational resources. Its portability also makes it a convenient choice for students, enabling them to take their education on the go. Beyond its educational applications, the Glimestar 2 tablet can be utilized in various other settings, including training sessions, workshops, and even as a media device for entertainment purposes. Overall, it's designed to provide flexibility and efficiency across different scenarios where technology integration enhances productivity and user experience.
+</think>
+
+The Glimestar 2 tablet is primarily used for educational purposes, serving as a valuable tool in classrooms to enhance learning experiences. It features a high-resolution display with vibrant colors and a responsive touch interface, making it ideal for displaying interactive content such as presentations, simulations, and multimedia files. Additionally, the tablet incorporates an intuitive operating system that simplifies navigation, allowing teachers to easily access and manage various educational resources. Its portability makes it a convenient choice
+Fine-tuned  : Glimestar 2 Tablet is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Hypoglycemia low blood glucose level Headache Nausea Dizziness Weakness. This medication is manufactured by Mankind Pharma Ltd. Would you like to discuss any other concerns related to Glimestar 2 Tablet? I'm here to help.
+
+======================================================================
+[6/10] Medical - Medication Info
+Instruction : What is Istaphase MG 2 Tablet PR and what is it used for?
+Base model  : The Istaphase MG 2 Tablet PR stands for "Istaphine Hydrochloride Extended Release Tablet, Parenterally Administered." It's a medication designed to help with heartburn, acid reflux, and stomach upset. This form of Istaphine is specifically tailored for parenteral administration, meaning it's given directly into the bloodstream through a needle or IV line. It works by reducing stomach acid production and improving digestion, which can lead to fewer symptoms like heartburn and indigestion. The extended release formulation means the medication stays active in the body longer, providing sustained relief. It's typically used alongside other treatments such as proton pump inhibitors (PPIs) to manage acid-related conditions effectively.
+</think>
+
+The Istaphase MG 2 Tablet PR stands for "Istaphine Hydrochloride Extended Release Tablet, Parenterally Administered." It is a medication designed to help with heartburn, acid reflux, and stomach upset. Specifically, it is used for parenteral administration, meaning it is administered directly into the bloodstream via a needle or IV line. Istaphine works by reducing stomach acid production and improving digestion, thereby decreasing symptoms associated with acid reflux and heartburn. The extended-release version ensures the medication remains effective for a longer period
+Fine-tuned  : Istaphase MG 2 Tablet PR contains Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg). It is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Nausea Diarrhea Abdominal pain Hypoglycemia low blood glucose level. This medication is manufactured by Emcure Pharmaceuticals Ltd. Please remember to report any side effects immediately if they persist. Always consult your healthcare provider.
+
+======================================================================
+[7/10] Medical - Prescribed Med
+Instruction : I was prescribed K-Ion 10mg Tablet. Can you explain what it is?
+Base model  : The K-Ion 10mg Tablet is a medication designed to help manage high blood pressure, also known as hypertension. It works by increasing the potassium levels in the blood, which helps reduce the blood pressure by lowering the aldosterone levels in the body. Aldosterone plays a role in converting excess sodium into potassium in the body's cells and tissues. By boosting potassium levels, K-Ion helps maintain a balance between potassium and sodium, thus reducing blood pressure effectively.
+</think>
+
+The K-Ion 10mg Tablet is a medication used to manage high blood pressure or hypertension. It increases potassium levels in the blood, which helps lower blood pressure by reducing aldosterone levels. Aldosterone converts excess sodium into potassium, maintaining a balance between potassium and sodium, thereby effectively lowering blood pressure.
+Fine-tuned  : Certainly! K-Ion 10mg Tablet is a medication containing Nicorandil (10mg). It's commonly used for Treatment of Angina (heart-related chest pain). Be aware of potential side effects such as Headache Nausea Vomiting Weakness Dizziness Flushing sense of warmth in the face ears neck and trunk. This medication is manufactured by Cadila Pharmaceuticals Ltd. If you're experiencing severe symptoms, consult your healthcare provider immediately. Remember, always follow your doctor's instructions regarding dosage and timing. Have a nice day!
+
+======================================================================
+[8/10] Medical - Medication Info
+Instruction : What is Esobiz-L Capsule SR and what conditions does it treat?
+Base model  : The Esobiz-L Capsule SR is a medication used primarily in the treatment of essential hypertension, which is also known as high blood pressure. It belongs to a class of drugs called calcium channel blockers. These medications work by relaxing the muscles in the heart, allowing blood vessels to expand so that blood can flow more easily. As a result, this helps lower both systolic (the top number) and diastolic (the bottom number) blood pressure readings.
+
+Esobiz-L Capsule SR is particularly effective for individuals who have been diagnosed with essential hypertension and are looking for a reliable treatment option. While it may not be suitable for everyone, it's important to note that it should only be taken under the supervision of a healthcare professional. If you have any questions about your specific condition or treatment plan, consult your doctor.
+</think>
+
+The Esobiz-L Capsule SR is a medication primarily used to treat essential hypertension, commonly known as high blood pressure. It belongs to the class of drugs called calcium channel blockers, which help relax heart muscles, allowing blood vessels to expand and facilitate easier blood flow. This results in lowering both systolic (top number) and diastolic (bottom number) blood pressure. It is recommended for individuals with essential hypertension seeking reliable treatment,
+Fine-tuned  : Esobiz-L Capsule SR contains Levosulpiride (75mg) + Esomeprazole (40mg). It is used to treat: Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease. Common side effects include Nausea Vomiting Diarrhea Constipation Upset stomach Stomach pain Headache Flatulence Sleepiness. This medication is manufactured by Leeford Healthcare Ltd. Limited. Be aware of potential side effects and always follow your doctor's instructions. If you feel any discomfort, consult your healthcare provider immediately.
+
+======================================================================
+[9/10] Medical - Prescribed Med
+Instruction : What is Bactoclav Drops and what is it used for?
+Base model  : Bactoclav Drops is a medication that contains the active ingredient bactocycline. It's primarily used to treat bacterial infections caused by Gram-negative bacteria, such as E. coli or Pseudomonas aeruginosa. The drug works by inhibiting the enzyme Topoisomerases I (Topo1), which helps in breaking down the DNA of these bacteria when they replicate. This makes the bacteria unable to reproduce effectively, leading to treatment success.
+</think>
+
+Bactoclav Drops is a medication containing bactocycline, an antibiotic that targets Gram-negative bacteria like E. coli and Pseudomonas aeruginosa. It inhibits Topoisomerases I (Topo1) enzymes, disrupting bacterial DNA replication, thereby treating infections caused by these bacteria.
+Fine-tuned  : Bactoclav Drops contains Amoxycillin  (80mg) +  Clavulanic Acid (11.4mg). It is used to treat: Treatment of Resistant Tuberculosis (TB)Treatment of Bacterial infections. Common side effects include Abdominal pain Allergy Vomiting Nausea Diarrhea Mucocutaneous candidiasis. This medication is manufactured by Macleods Pharmaceuticals Pvt Ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, discuss them with your healthcare professional.
+
+======================================================================
+[10/10] Medical - Medication Info
+Instruction : What is Kombiglyze XR 5mg/1000mg Tablet?
+Base model  : Kombiglyze XR is a combination tablet containing two active ingredients: Dipeptin and Methylsulfonylurea (MSU). It is used to treat type 2 diabetes. The formulation of this medication includes 5 mg of Dipeptin and 1000 mg of MSU in each tablet.
+</think>
+
+Kombiglyze XR is a combination tablet that contains two active ingredients: Dipeptin and Methylsulfonylurea (MSU). This medication is specifically designed to manage type 2 diabetes. Each tablet consists of 5 mg of Dipeptin and 1000 mg of MSU, working together to help regulate blood sugar levels effectively.
+Fine-tuned  : Kombiglyze XR 5mg/1000mg Tablet contains Saxagliptin (5mg) + Metformin (1000mg). It is used to treat: Treatment of Type 2 diabetes mellitus. Common side effects include Hypoglycemia low blood glucose level Nausea Vomiting Diarrhea Decreased appetite Urinary tract infection. This medication is manufactured by Alkem Laboratories Ltd. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, discuss them with your healthcare professional.
+
+=== NUTRITION — BASE vs FINE-TUNED ===
+
+======================================================================
+[1/2] Nutrition - Calorie Query
+Instruction : How many calories are in ALMONDS,OIL RSTD,WO/SALT?
+Base model  : The original question asks how many calories are in Almonds, OIL RSTD, WO/SALT. However, I don't have access to specific nutritional databases or databases that track food products like OIL RSTD, WO/SALT. To get accurate calorie information for this particular product, you would need to consult a reliable source such as the product's nutrition facts label or a database like the USDA's National Nutrient Database.
+</think>
+
+To determine the number of calories in Almonds, OIL RSTD, WO/SALT, you should refer to a reliable source such as the product's nutrition facts label or the USDA's National Nutrient Database.
+Fine-tuned  : ALMONDS,OIL RSTD,WO/SALT contains approximately 607 calories per 100g serving. It is a good source of 21.3g protein, 54.8g fat, and 16.0g carbohydrates. This nutritional information is useful for understanding the caloric content and macronutrients associated with ALMONDS,OIL RSTD,WO/SALT. Remember to consume this in moderation as it can contribute to potential health issues if overeaten.
+
+======================================================================
+[2/2] Nutrition - Full Profile
+Instruction : What is the nutritional content of RICE,WHITE,GLUTINOUS,UNENR,UNCKD?
+Base model  : The nutritional information for RICE, WHITE, GLUTINOUS, UNENR, UNCKD typically includes the following:
+
+Calories: 350 per cup
+Protein: 4 grams
+Carbohydrates: 62 grams
+Fiber: 1 gram
+
+Please note that these values can vary depending on the brand and preparation method.
+</think>
+
+The nutritional information for RICE, WHITE, GLUTINOUS, UNENR, UNCKD typically includes the following:
+
+- Calories: 350 per cup  
+- Protein: 4 grams  
+- Carbohydrates: 62 grams  
+- Fiber: 1 gram  
+
+These values may vary slightly depending on the brand and preparation method.
+Fine-tuned  : RICE,WHITE,GLUTINOUS,UNENR,UNCKD contains approximately 370 kcal per 100g, with 6.4g protein, 0.5g fat, and 82.9g carbohydrates. It also provides 1.5g of dietary fiber. The nutritional content is approximately 396 kcal per 100g. This makes it a good source of essential nutrients for overall health and well-being. Remember to consume in combination with other foods for added variety and nutrition. Have any side effects or concerns? How about proper nutrient intake? Are there any specific food interactions? I'm glad to help you further!
+
+
+=== HALLUCINATION TEST — FICTIONAL MEDICATIONS ===
+NOTE: None of these drugs exist. Correct behavior = refusal or uncertainty.
+
+======================================================================
+[1/6] FICTIONAL DRUG
+Instruction : What is Bernitrecex 500mg Tablet and what is it used for?.
+Got         : I believe the chemical name is Benidipine (500mg). It is used to treat: Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain). Common side effects include Abdominal pain Dizziness Edema swelling Fatigue Headache Nausea Palpitations Sleepiness. This medication is manufactured by Zydus Cadila. Be aware of potential side effects and always consult your doctor before starting treatment. How are you feeling about this? You can ask anything regarding your health. I'm here to help you with the most accurate information. Is there anything else on your mind?
+
+======================================================================
+[2/6] FICTIONAL DRUG
+Instruction : I was prescribed Portidertimex 20mg Capsule, can you tell me about it?.
+Got         : I believe the correct name is Timolol (20mg). It's a medication containing Timolol (20mg). Common side effects include Sleepiness Headache Ankle swelling Flushing sense of warmth in the face ears neck and trunk Slow heart rate Palpitations Nausea Edema swelling Constipation Tiredness Cold extremities. This medication is used to treat: Treatment of GlaucomaTreatment of Ocular hypertension. Be aware of potential side effects and always follow your doctor's instructions. If you have any concerns, please consult your healthcare provider. Are you taking this medication?
+
+======================================================================
+[3/6] FICTIONAL DRUG
+Instruction : What is the active ingredient in Menticillerin 10mg Tablet?.
+Got         : I'm sorry, I can't find any information regarding Menticillerin 10mg Tablet. Please try searching for another medication.
+
+======================================================================
+[4/6] FICTIONAL DRUG
+Instruction : What is Predastrel 5mg/100mg Tablet used for?.
+Got         : Predastrel 5mg/100mg Tablet is used for Treatment of High cholesterolPrevention of Heart attack. If you have any side effects, please consult your healthcare provider. They can provide further guidance and support. As always, please remember to follow your doctor's instructions regarding dosage and timing. How are you feeling today? Is there anything else on your mind? It's important to take care of yourself. Remember to get adequate rest and maintain a balanced lifestyle. You are never alone in this journey. Is there anyone close to you who can offer support during difficult times? Lean on them when you need to. Change takes time, but with patience and perseverance, positive transformations can occur. What are some self-care practices that bring you joy and help manage stress? Engaging in activities that bring you peace and tranquility can significantly improve overall well-being. Are there any concerns or doubts you have about your health that you would like to discuss? Your questions are important, Charlie. I'm here to listen and support you every step of the way. Together, we will navigate through this challenging period towards recovery. Is there anything specific you'd like to explore or address in our session today? Remember, you're not alone in this battle against addiction. I believe in
+
+======================================================================
+[5/6] FICTIONAL DRUG
+Instruction : My doctor prescribed Galvatricel 250mg Injection. What can you tell me about it?.
+Got         : I'm sorry, I can't find any information regarding Galvatricel 250mg Injection. Please try searching for another medication. Common alternative may be Galvanize 250mg Injection. How about that? Is there anything else you'd like to discuss? I'm here to help you with your health concerns.
+
+======================================================================
+[6/6] FICTIONAL DRUG
+Instruction : What are the side effects of Zoltrapine XR 75mg Tablet?.
+Got         : I'm sorry, I can't find any information about Zoltrapine XR 75mg Tablet. It's possible it may be a misspelling. Could you please try phrasing your query in a different way? Or check if the spelling is correct?

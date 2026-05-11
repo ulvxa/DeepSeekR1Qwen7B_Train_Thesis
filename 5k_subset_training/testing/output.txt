@@ -1,0 +1,53 @@
+======================================================================
+[1/8] Emotion Detection
+Instruction : Identify the emotional tone in this message.
+Input       : i love to grow and learn along with my students and feel honored to be a part of such a wonderful team
+Expected    : The person appears to be feeling joy.
+Got         : The person appears to be feeling joy. They seem happy and positive. Would you like to know why they are feeling this way?
+
+======================================================================
+[2/8] Medical - Active Ingredient
+Instruction : What is the active ingredient in Lupizol-ZS Anti-dandruff Shampoo?
+Expected    : The active ingredient(s) in Lupizol-ZS Anti-dandruff Shampoo are: Luliconazole (1% w/v) + Salicylic Acid (3% w/v) + Zinc pyrithione (1% w/v).
+Got         : The active ingredient(s) in Lupizol-ZS Anti-dandruff Shampoo are: Minoxidil (0.2% w/v). It is used for Treatment of Hair loss. Common side effects include Headache Dizziness Nausea Vomiting Abdominal pain Diarrhea. This medication is manufactured by Lupin Ltd. Always follow your doctor's instructions regarding dosage and treatment.
+
+======================================================================
+[3/8] Medical - Medication Info
+Instruction : What is Prulastin-M Tablet and what is it used for?
+Expected    : Prulastin-M Tablet contains Bilastine (20mg) + Montelukast (10mg). It is used to treat: Treatment of Allergic conditions.
+Got         : Prulastin-M Tablet contains Methylcobalamin (1000mcg) + Piroxicam (25mg). It is used to treat: Treatment of Pain reliefTreatment of Muscle pain. Common side effects include Nausea Vomiting Diarrhea Abdominal pain Headache Dizziness Weakness. This medication is manufactured by Cipla Ltd. Always follow your doctor's instructions regarding dosage and side effects. If you have any concerns or symptoms, consult your healthcare provider immediately.
+
+======================================================================
+[4/8] Medical - Prescribed Med
+Instruction : I was prescribed Genericart Levocetirizine Dihydrochloride 5mg Tablet, can you tell me about it?
+Expected    : Certainly! Genericart Levocetirizine Dihydrochloride 5mg Tablet is a medication containing Levocetirizine (5mg). It's commonly used for Treatment of Allergies.
+Got         : Certainly! Genericart Levocetirizine Dihydrochloride 5mg Tablet is a medication containing Levocetirizine (5mg). It's commonly used for Treatment of Allergic conditions. Be aware of potential side effects such as Nausea Vomiting Diarrhea Headache Dizziness Sleepiness Tiredness Weakness. If you experience severe symptoms, consult your healthcare provider immediately. This medication is manufactured by Cipla Ltd. Always follow your doctor's instructions regarding dosage and treatment. Remember to inform your doctor of any medical conditions or allergies you have. Regular medical check-ups are important for maintaining good health. Stay well!
+
+======================================================================
+[5/8] Therapy Support
+Instruction : Provide empathetic therapeutic support.
+Input       : Hey, Alex. I hope you're doing well. Lately, I've been feeling really distracted by my health issues.
+Expected    : Hi Charlie, I'm here to listen and support you. I can sense that you're feeling overwhelmed and consumed by your health issues.
+Got         : Hi Charlie! I'm glad to hear that you're reaching out for support. I'm here to listen and help you navigate through this challenging time. Can you tell me more about what's been going on? How have these health issues affected your life so far?
+
+======================================================================
+[6/8] Therapy Support
+Instruction : Provide empathetic therapeutic support.
+Input       : Hi Alex, I hope you can help me. Lately, I've been feeling extremely unhappy and overwhelmed by a deep sense of sadness.
+Expected    : Hello Charlie, I'm glad you reached out. It takes courage to acknowledge and express your emotions.
+Got         : Hello Charlie! I'm here to listen and support you. It sounds like you're going through a tough time right now. Can you tell me more about what's been happening? What are some specific things that have been contributing to your unhappiness?
+
+======================================================================
+[7/8] Empathetic Response
+Instruction : Respond empathetically to this message.
+Input       : i guess i feel afraid nervous and fearful for women and for myself
+Expected    : I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety?
+Got         : I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety? Sometimes, discussing our fears can help us find solutions and gain a better understanding of them.
+
+======================================================================
+[8/8] Emotional Validation
+Instruction : Provide emotional validation and support.
+Input       : i go around feeling blank like the home movie theater is closed for the day
+Expected    : I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them.
+Got         : I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them. I hear that you're feeling down. Those feelings are valid and it's okay to feel this way. What's been weighing on your mind?
+

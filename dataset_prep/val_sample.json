@@ -1,0 +1,142 @@
+[
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Hi Alex. I hope you're doing well today. I wanted to talk to you about something that has been bothering me lately. I've been feeling quite embarrassed about the amount of stress I've been experiencing at work. It's been weighing me down and affecting both my mental and physical well-being. I've come to you because I trust that you can help me navigate through this challenging period.",
+    "output": "Hello Charlie. It's good to hear from you, and I appreciate your trust in seeking support. Work-related stress can be overwhelming, but remember that you are not alone in experiencing these emotions. Let's take a moment to acknowledge the courage it takes to open up about feeling embarrassed. May I ask what specific aspects of work are causing you stress?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "I was prescribed Pilogo Plus Cream, can you tell me about it?",
+    "input": "",
+    "output": "Certainly! Pilogo Plus Cream is a medication containing Lidocaine (3% w/w) + Calcium Dobesilate (0.25% w/w) + Hydrocortisone (0.25% w/w) + Phenylephrine (0.1% w/w) + Zinc Oxide (5% w/w) + Troxerutin (2% w/w). It's commonly used for Treatment of Piles. Be aware of potential side effects such as Application site reactions burning irritation itching and redness.",
+    "category": "medical",
+    "subcategory": "medication_info"
+  },
+  {
+    "instruction": "Provide emotional validation and support.",
+    "input": "i refuse to stop digging until ive changed my attitude and feelings because it is vital in helping me get better and for me becoming a better person",
+    "output": "I understand you're feeling joy. Your emotions are valid, and it's important to acknowledge them. I'm glad to hear you're feeling positive! It's wonderful to experience joy. What's bringing you happiness today?",
+    "category": "emotion",
+    "subcategory": "validation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Thank you, Alex. It feels good to have someone on my side, fighting this battle with me. I know it won't be easy, but I'm willing to put in the effort to reclaim my life and break free from this cycle of addiction.",
+    "output": "You're not alone, Charlie. Remember, recovery is a journey, and setbacks may occur along the way. But never forget the strength within you and the support available to you. With time, effort, and a compassionate outlook, you can rediscover your true self and live a fulfilling life beyond addiction.",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Recommend a high-protein food.",
+    "input": "I need to increase my protein intake for muscle building.",
+    "output": "I recommend OWL,HORNED,FLESH,RAW (ALASKA NATIVE), which contains 22.7g of protein per 100g. It's an excellent source of protein for muscle growth and recovery.",
+    "category": "nutrition",
+    "subcategory": "recommendation"
+  },
+  {
+    "instruction": "What is Amlace Tablet and what is it used for?",
+    "input": "",
+    "output": "Amlace Tablet contains Amlodipine (5mg) + Lisinopril (5mg). It is used to treat: Hypertension (high blood pressure). Common side effects include Ankle swelling Headache Tiredness Palpitations Increased potassium level in blood Sleepiness Cough Taste change Flushing sense of warmth in the face ears neck and trunk Decreased blood pressure Upset stomach. This medication is manufactured by USV Ltd.",
+    "category": "medical",
+    "subcategory": "medication_info"
+  },
+  {
+    "instruction": "When should I take Telekast-T Tablet CR?",
+    "input": "",
+    "output": "Telekast-T Tablet CR is prescribed for Treatment and prevention of Asthma. Always follow your doctor's instructions regarding dosage and timing.",
+    "category": "medical",
+    "subcategory": "usage"
+  },
+  {
+    "instruction": "Identify the emotional tone in this message.",
+    "input": "im wondering if this is because of my feeling of debt and that i shouldnt be spending money the fact that i have just been fairly frantic and busy or a subconcious move to aviod uncomfortable situations that could arise",
+    "output": "The person appears to be feeling fear.",
+    "category": "emotion",
+    "subcategory": "detection"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I just want to say thank you, Alex, for guiding me through this conversation. I feel excited and hopeful about the possibilities for my personal relationships. This conversation has been profoundly impactful for me.",
+    "output": "You're most welcome, Charlie. I'm glad this conversation has been meaningful for you. Remember, you have the power to learn from your past experiences and create the relationships you desire. Believe in yourself and take one step at a time. Keep me updated on your progress, and feel free to reach out whenever you need guidance.",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "When should I take Betadine 5% Ointment?",
+    "input": "",
+    "output": "Betadine 5% Ointment is prescribed for Treatment and prevention of Wound infection. Always follow your doctor's instructions regarding dosage and timing.",
+    "category": "medical",
+    "subcategory": "usage"
+  },
+  {
+    "instruction": "What are the macronutrients in SUNSHINE,CHEEZ-IT,DUOZ SMOKED CHEDDAR MONTEREY JACK CRACKERS?",
+    "input": "",
+    "output": "SUNSHINE,CHEEZ-IT,DUOZ SMOKED CHEDDAR MONTEREY JACK CRACKERS has 9.0g protein, 25.9g fat, and 60.8g carbohydrates per 100g.",
+    "category": "nutrition",
+    "subcategory": "macros"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Well, I used to enjoy playing the guitar, but I haven't picked it up in years. Maybe I should give it another try?",
+    "output": "That sounds like a wonderful idea, Charlie! Reconnecting with activities you once enjoyed can help boost your self-esteem. It doesn't matter if you're rusty to start with. What matters is the joy it brings you. How about setting aside some time this week to play the guitar?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I guess I would like to feel more secure and open with my family again. I want to let them in and receive their support without feeling so defensive. I want to trust that they have my best interests at heart, but it's hard to let go of this anxiety.",
+    "output": "That's a great goal, Charlie. Trust and vulnerability can be challenging, especially after experiencing heartbreak. Let's take a moment to reflect on your past experiences. Are there any specific events or patterns that have contributed to your defensive outlook towards your family?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I can't believe how much work-related stress I have been experiencing lately. It's really taking a toll on my overall well-being. I feel completely disgusted and betrayed by the constant pressure and demands placed upon me.",
+    "output": "I can sense the intensity of your emotions, Charlie, and I want you to know that I'm here to support you. It sounds like you're going through a tough time. Can you tell me more about what specifically is causing you to feel this way?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Hi Alex, I hope you're doing well. I felt really scared and overwhelmed at work today. It seems like there's this constant cloud of negativity hovering over me. I genuinely feel like I'm being bullied by some of my colleagues. It's been affecting my productivity and making me question my worth.",
+    "output": "Hello Charlie, thank you for reaching out. I'm here to listen and support you. It takes courage to open up about such difficult experiences. When you say you feel bullied, can you give me a little more insight into the specific behaviors or actions that are contributing to this feeling?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide emotional validation and support.",
+    "input": "i let myself feel this delight because ented is so tortured",
+    "output": "I understand you're feeling fear. Your emotions are valid, and it's important to acknowledge them. I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety?",
+    "category": "emotion",
+    "subcategory": "validation"
+  },
+  {
+    "instruction": "What is the active ingredient in Medomol 650 Tablet?",
+    "input": "",
+    "output": "The active ingredient(s) in Medomol 650 Tablet are: Paracetamol (650mg).",
+    "category": "medical",
+    "subcategory": "composition"
+  },
+  {
+    "instruction": "What are the macronutrients in KFC,CRISPY CHICK STRIPS?",
+    "input": "",
+    "output": "KFC,CRISPY CHICK STRIPS has 20.2g protein, 15.4g fat, and 13.7g carbohydrates per 100g.",
+    "category": "nutrition",
+    "subcategory": "macros"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I'm ready to take that step, Alex. I want to heal and find happiness again. Thank you for being there for me.",
+    "output": "You're welcome, Charlie. We'll embark on this healing journey together. Trust that brighter days are ahead, even when it feels impossible in this moment. Remember, you're not alone.",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Identify the emotional tone in this message.",
+    "input": "i guess i must have had good dreams or something because i feel invigorated today",
+    "output": "The person appears to be feeling joy.",
+    "category": "emotion",
+    "subcategory": "detection"
+  }
+]

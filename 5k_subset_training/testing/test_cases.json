@@ -1,0 +1,50 @@
+[
+    {
+        "category": "Emotion Detection",
+        "instruction": "Identify the emotional tone in this message.",
+        "input": "i love to grow and learn along with my students and feel honored to be a part of such a wonderful team",
+        "expected": "The person appears to be feeling joy."
+    },
+    {
+        "category": "Medical - Active Ingredient",
+        "instruction": "What is the active ingredient in Lupizol-ZS Anti-dandruff Shampoo?",
+        "input": "",
+        "expected": "The active ingredient(s) in Lupizol-ZS Anti-dandruff Shampoo are: Luliconazole (1% w/v) + Salicylic Acid (3% w/v) + Zinc pyrithione (1% w/v)."
+    },
+    {
+        "category": "Medical - Medication Info",
+        "instruction": "What is Prulastin-M Tablet and what is it used for?",
+        "input": "",
+        "expected": "Prulastin-M Tablet contains Bilastine (20mg) + Montelukast (10mg). It is used to treat: Treatment of Allergic conditions."
+    },
+    {
+        "category": "Medical - Prescribed Med",
+        "instruction": "I was prescribed Genericart Levocetirizine Dihydrochloride 5mg Tablet, can you tell me about it?",
+        "input": "",
+        "expected": "Certainly! Genericart Levocetirizine Dihydrochloride 5mg Tablet is a medication containing Levocetirizine (5mg). It's commonly used for Treatment of Allergies."
+    },
+    {
+        "category": "Therapy Support",
+        "instruction": "Provide empathetic therapeutic support.",
+        "input": "Hey, Alex. I hope you're doing well. Lately, I've been feeling really distracted by my health issues.",
+        "expected": "Hi Charlie, I'm here to listen and support you. I can sense that you're feeling overwhelmed and consumed by your health issues."
+    },
+    {
+        "category": "Therapy Support",
+        "instruction": "Provide empathetic therapeutic support.",
+        "input": "Hi Alex, I hope you can help me. Lately, I've been feeling extremely unhappy and overwhelmed by a deep sense of sadness.",
+        "expected": "Hello Charlie, I'm glad you reached out. It takes courage to acknowledge and express your emotions."
+    },
+    {
+        "category": "Empathetic Response",
+        "instruction": "Respond empathetically to this message.",
+        "input": "i guess i feel afraid nervous and fearful for women and for myself",
+        "expected": "I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety?"
+    },
+    {
+        "category": "Emotional Validation",
+        "instruction": "Provide emotional validation and support.",
+        "input": "i go around feeling blank like the home movie theater is closed for the day",
+        "expected": "I understand you're feeling sad. Your emotions are valid, and it's important to acknowledge them."
+    }
+]

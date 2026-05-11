@@ -1,0 +1,67 @@
+  Medical: 11825 rows
+  Therapy: 7500 rows
+  Emotion: 20000 rows
+  Nutrition: 8790 rows
+
+============================================================
+TOTAL INSTRUCTION PAIRS: 216922
+============================================================
+
+============================================================
+DATASET STATISTICS
+============================================================
+
+Total samples: 216,922
+
+Category Distribution:
+----------------------------------------
+  Therapy      60,839 ( 28.0%)
+  Emotion      60,000 ( 27.7%)
+  Medical      59,125 ( 27.3%)
+  Nutrition    36,958 ( 17.0%)
+
+Subcategory Breakdown:
+----------------------------------------
+
+  THERAPY:
+    - conversation         60,839
+
+  EMOTION:
+    - empathy              20,000
+    - validation           20,000
+    - detection            20,000
+
+  NUTRITION:
+    - content               8,790
+    - calories              8,790
+    - macros                8,790
+    - recommendation        5,031
+    - micronutrients        3,855
+    - sodium                1,702
+
+  MEDICAL:
+    - medication_info      23,650
+    - usage                11,825
+    - side_effects         11,825
+    - composition          11,825
+
+============================================================
+
+Saved 216,922 samples to unified_health_coach_dataset.jsonl
+Saved metadata version to unified_health_coach_dataset_with_metadata.csv
+Saved sample preview (20 entries) to unified_health_coach_dataset_sample.json
+
+============================================================
+CREATING TRAIN/VALIDATION SPLIT
+============================================================
+
+Saved 195,229 samples to train.jsonl
+Saved metadata version to train_with_metadata.csv
+Saved sample preview (20 entries) to train_sample.json
+
+Saved 21,693 samples to val.jsonl
+Saved metadata version to val_with_metadata.csv
+Saved sample preview (20 entries) to val_sample.json
+
+  Train set: 195,229 samples (90%)
+  Validation set: 21,693 samples (10%)

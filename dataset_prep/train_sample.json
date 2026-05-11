@@ -1,0 +1,142 @@
+[
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I'm hesitant to reach out because I don't want to appear weak or incapable. Plus, there's this fear of additional pressure or being perceived as unreliable. I've always been seen as a competent and dependable team member, and I don't want that image to crumble. It's a tough situation to navigate.",
+    "output": "I understand your concerns, Charlie. It's completely normal to want to maintain a certain image at work. However, it's important to remember that seeking support doesn't make you weak. In fact, acknowledging your own limits and seeking help is a sign of strength. Is there anyone in your workplace whom you trust and could confide in?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Respond empathetically to this message.",
+    "input": "i had help with it of course because it tends to make me feel pretty pooped and my wrist was getting cranky but it s done now",
+    "output": "It sounds like you're feeling frustrated or angry. Let's work through this together. What happened that made you feel this way?",
+    "category": "emotion",
+    "subcategory": "empathy"
+  },
+  {
+    "instruction": "What is the nutritional content of LAMB,NZ,IMP,TONGUE - SWISS CUT,RAW?",
+    "input": "",
+    "output": "LAMB,NZ,IMP,TONGUE - SWISS CUT,RAW contains approximately 225 kcal per 100g, with 14.3g protein, 18.6g fat, and 0.0g carbohydrates. It also provides 0.0g of dietary fiber.",
+    "category": "nutrition",
+    "subcategory": "content"
+  },
+  {
+    "instruction": "Provide emotional validation and support.",
+    "input": "i think i feel a bit nostalgic too because the build up to the wedding was just so intense the day came and suddenly it was done",
+    "output": "I understand you're feeling love. Your emotions are valid, and it's important to acknowledge them. It's beautiful to feel connected and caring. Those emotions are precious. Tell me more about what you're experiencing.",
+    "category": "emotion",
+    "subcategory": "validation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Definitely, Alex. Lately, I've noticed some disagreements and misunderstandings cropping up among my closest friends. It's been challenging to navigate these conflicts while maintaining the upbeat and positive atmosphere we usually share. I've been wondering how I can address these issues without causing further tension.",
+    "output": "It sounds like you really value your friendships and want to handle these conflicts in a constructive way. Have you tried expressing your concerns to your friends and discussing how these conflicts affect you?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "When should I take Xbaren 600mg Tablet?",
+    "input": "",
+    "output": "Xbaren 600mg Tablet is prescribed for Epilepsy/Seizures. Always follow your doctor's instructions regarding dosage and timing.",
+    "category": "medical",
+    "subcategory": "usage"
+  },
+  {
+    "instruction": "How many calories are in LAMB,NZ,IMP,LOIN CHOP,LN,RAW?",
+    "input": "",
+    "output": "LAMB,NZ,IMP,LOIN CHOP,LN,RAW contains approximately 142 calories per 100g serving.",
+    "category": "nutrition",
+    "subcategory": "calories"
+  },
+  {
+    "instruction": "When should I take Morr 10% Solution?",
+    "input": "",
+    "output": "Morr 10% Solution is prescribed for Treatment of Hair loss. Always follow your doctor's instructions regarding dosage and timing.",
+    "category": "medical",
+    "subcategory": "usage"
+  },
+  {
+    "instruction": "What are the side effects of Rugtrit 1500mcg/75mg Tablet?",
+    "input": "",
+    "output": "Common side effects of Rugtrit 1500mcg/75mg Tablet include: Dizziness Sleepiness Tiredness Uncoordinated body movements. If you experience severe symptoms, consult your healthcare provider immediately.",
+    "category": "medical",
+    "subcategory": "side_effects"
+  },
+  {
+    "instruction": "I was prescribed Epnone 25mg Tablet, can you tell me about it?",
+    "input": "",
+    "output": "Certainly! Epnone 25mg Tablet is a medication containing Eplerenone (25mg). It's commonly used for Treatment of Hypertension (high blood pressure)Treatment of EdemaTreatment of Heart failure. Be aware of potential side effects such as Dizziness Diarrhea Nausea Cough Flu like symptoms Fatigue Increased potassium level in blood Increased creatinine level in blood Headache.",
+    "category": "medical",
+    "subcategory": "medication_info"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Thank you, Alex. I appreciate your guidance and support. I feel like I have a clearer path moving forward, and I'll definitely take the necessary steps to address my work-related stress.",
+    "output": "You're welcome, Charlie. I'm glad to hear that you're feeling more clarity and that you have a plan moving forward. Remember, I'm here to support you throughout this process. If you ever need to discuss any challenges or celebrate your progress, feel free to reach out. You're on the right path, and I believe in your ability to effectively manage your work-related stress.",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide emotional validation and support.",
+    "input": "i feel people look at me and think im strange",
+    "output": "I understand you're feeling fear. Your emotions are valid, and it's important to acknowledge them. I can sense you're feeling anxious or afraid. It's completely normal to have these feelings. Would you like to talk about what's causing this anxiety?",
+    "category": "emotion",
+    "subcategory": "validation"
+  },
+  {
+    "instruction": "What are the side effects of Angispan-TR 6.5mg Capsule?",
+    "input": "",
+    "output": "Common side effects of Angispan-TR 6.5mg Capsule include: Blurred vision Decreased blood pressure Dizziness Headache Increased heart rate Lightheadedness Paresthesia tingling or pricking sensation. If you experience severe symptoms, consult your healthcare provider immediately.",
+    "category": "medical",
+    "subcategory": "side_effects"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I guess making people laugh brings me joy and a sense of purpose. When I see others happy because of something I said or did, it feels like I'm making a positive impact. But I doubt my ability to truly succeed in this field.",
+    "output": "Doubts are a part of pursuing any dream, Charlie. It's important to remember that success can look different for everyone. Instead of worrying about undeniable success, have you thought about what steps you can take to explore your passion for comedy?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "What is the active ingredient in Gretacal Injection?",
+    "input": "",
+    "output": "The active ingredient(s) in Gretacal Injection are: Calcium Gluconate (50mg) + Calcium Lactobionate (87.5mg).",
+    "category": "medical",
+    "subcategory": "composition"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Another key factor, Alex, is our ability to support and encourage each other's individual growth and passions. We've learned to celebrate each other's achievements and find joy in each other's successes. By fostering a supportive environment, we have cultivated a sense of peace within the partnership. We focus on being empathetic towards one another and always strive to understand each other's perspectives.",
+    "output": "That's wonderful, Charlie. It sounds like you both value personal growth and mutual support, which are essential ingredients for a peaceful marriage. By acknowledging and appreciating each other's accomplishments, you reinforce the love and harmony in your relationship. Can you share any specific examples of how you and your spouse have supported one another recently?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "It makes me feel alive and excited. It's almost like all the worries and sadness fade away when I am focused on creating something beautiful. It's a form of escape, you know?",
+    "output": "I absolutely understand, Charlie. Sometimes, engaging in a new hobby can provide us with much-needed respite from our daily struggles. It sounds like painting holds a lot of promise for you.",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Sometimes, I feel like I'm not grieving \"correctly.\" I see others who have lost loved ones and they seem to be handling it better than I am. I feel guilty for not being more composed, and it makes me question if I'm honoring my mother's memory enough.",
+    "output": "It's understandable that you might compare your grieving process to others, but it's important to remember that there is no right or wrong way to grieve. Grief is a deeply personal experience, and everyone navigates it differently. Your love for your mother and the feelings you have are what truly matter. What are some ways you've been honoring her memory so far?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "Hey Alex, I hope you're doing well. I've been feeling a bit numb lately, like I'm just going through the motions. It's hard to explain, but I feel like something's missing. I guess I've been struggling with my own emotions and the way I communicate with others. It's like there's a wall between me and everyone else, and I want to break it down.",
+    "output": "Hi Charlie, I'm glad you reached out. It sounds like you're experiencing some disconnection and an inability to express yourself fully. Sometimes, when we go through difficult periods, our emotions can feel muted and it's common to feel disconnected from others. Tell me, how long have you been feeling this way?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  },
+  {
+    "instruction": "Provide empathetic therapeutic support.",
+    "input": "I feel defeated and like I'm constantly walking on eggshells. It's as if any little thing I say or do can set off another conflict.",
+    "output": "It must be incredibly challenging to live in such constant tension. Have you tried discussing these concerns with your spouse in a calm and open manner?",
+    "category": "therapy",
+    "subcategory": "conversation"
+  }
+]
