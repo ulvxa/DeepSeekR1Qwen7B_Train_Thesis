@@ -24,3 +24,49 @@ Ulvi Aliyev
 - `full_training/` — full dataset run (195k samples, 3 epochs, 14h10m)
 
 Each contains `logs/`, `testing/output.txt`, and `output_model/`.
+
+## Repo Structure
+
+```bash
+Train/
+├── Thesis.ipynb
+├── Inference(Output model test).ipynb
+├── dataset_prep/
+│   ├── main.py
+│   ├── downsampler.py
+│   ├── cut_csv.py
+│   ├── train.jsonl
+│   ├── val.jsonl
+│   ├── train_sample.json
+│   ├── val_sample.json
+│   ├── output.txt
+│   ├── requirements.txt
+│   └── sources/
+│       ├── med_1_link.txt
+│       ├── emotions_2_link.txt
+│       ├── theurapetic_sessions_3_link.txt
+│       └── nutritionalData_4_link.txt
+├── 5k_subset_training/
+│   ├── subset_train_5k.json
+│   ├── subset_val_500.json
+│   ├── logs/
+│   ├── testing/
+│   │   ├── output.txt
+│   │   ├── test_cases.json
+│   │   └── NOTE.txt
+│   └── output_model/
+│       └── google_drive_link.txt
+├── full_training/
+│   ├── logs/
+│   ├── testing/
+│   │   └── output.txt
+│   └── output_model_full/
+│       └── google_drive_link.txt
+└── mds_Thesis/
+    ├── TRAINING_NOTES.md
+    ├── HUGGINGFACE_PUBLISHING.md
+    └── dataset_creation.md
+```
+
+## Note
+Assistance of Artificial Intelligence was used strictly to beautify output logs for better representation.
