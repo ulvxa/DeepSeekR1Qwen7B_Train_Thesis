@@ -62,10 +62,6 @@ Train/
 │   │   └── output.txt
 │   └── output_model_full/
 │       └── google_drive_link.txt
-└── mds_Thesis/
-    ├── TRAINING_NOTES.md
-    ├── HUGGINGFACE_PUBLISHING.md
-    └── dataset_creation.md
 ```
 
 ## Note
